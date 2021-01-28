@@ -6,8 +6,8 @@
     'prefix': 'Fe'
     'body': 'Feature: '
   'Scenario Outline':
-    'prefix': 'Scenario: '
+    'prefix': 'Szenario: '
     'body': 'Scenario Outline: '
   'Scenario':
-    'prefix': 'Sc'
-    'body': 'Scenario: '
+    'prefix': 'Sz'
+    'body': 'Szenario: '
