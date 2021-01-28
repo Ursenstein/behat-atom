@@ -2,7 +2,7 @@
 
 replaced keywords to work with the German Gherkin-Patterns.
 
-Install by pasting `https://github.com/Ursenstein/behat-atom-de/edit/master/README.md` directly into you +Install searchbar in Atom.
+Install by pasting `https://github.com/Ursenstein/behat-atom-de` directly into you +Install searchbar in Atom.
 
 
 >## Behat support for Atom
