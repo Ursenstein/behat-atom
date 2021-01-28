@@ -20,7 +20,7 @@
     'name': 'markup.bold.feature'
   }
   {
-    'match': '^\\s*(Given|And|When|Then|But)\\b'
+    'match': '^\\s*(Angenommen|Und|Wenn|Dann|Aber)\\b'
     'name': 'keyword.control.feature'
   }
   {
