@@ -1,6 +1,6 @@
 {
   "name": "behat-atom-de",
-  "version": "0.8",
+  "version": "0.1.2",
   "description": "Adds Behat Support for German Gherkin-Patterns",
   "repository": "https://github.com/Ursenstein/behat-atom-de/",
   "license": "MIT",
